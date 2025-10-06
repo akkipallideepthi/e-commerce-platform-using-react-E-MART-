@@ -40,3 +40,4 @@ const WatchSingle = () => {
 };
 
 export default WatchSingle;
+

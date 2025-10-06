@@ -40,3 +40,4 @@ const FurnitureSingle = () => {
 };
 
 export default FurnitureSingle;
+

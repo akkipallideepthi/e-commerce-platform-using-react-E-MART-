@@ -40,3 +40,4 @@ const MenSingle = () => {
 };
 
 export default MenSingle;
+

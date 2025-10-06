@@ -96,3 +96,4 @@
     "description": "A high-performance refrigerator designed for professional-grade kitchen environments."
   }
 ]
+

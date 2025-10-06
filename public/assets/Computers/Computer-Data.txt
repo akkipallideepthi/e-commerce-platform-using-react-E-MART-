@@ -96,3 +96,4 @@
     "description": "A lightweight and affordable laptop running on Chrome OS, ideal for web-based tasks."
   }
 ]
+

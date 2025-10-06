@@ -40,3 +40,4 @@ const MobileSingle = () => {
 };
 
 export default MobileSingle;
+

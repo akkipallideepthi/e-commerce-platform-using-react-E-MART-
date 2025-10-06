@@ -40,3 +40,4 @@ const ComputerSingle = () => {
 };
 
 export default ComputerSingle;
+

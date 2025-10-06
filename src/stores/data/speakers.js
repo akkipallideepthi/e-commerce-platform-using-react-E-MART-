@@ -108,3 +108,4 @@ export const speakersData = [
     "description": "A portable Bluetooth speaker with rugged design, 360-degree sound, and waterproofing."
   }
 ];
+
