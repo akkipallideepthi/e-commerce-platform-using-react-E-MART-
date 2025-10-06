@@ -65,4 +65,4 @@ return (
   )
 }
 
-export default MobilePage
+export default MobilePage 

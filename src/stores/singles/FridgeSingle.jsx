@@ -16,7 +16,7 @@ const FridgeSingle = () => {
     <>
       <Navbar />
       <div className="ind-section">
-        <div className="ind-image">
+        <div className="ind-image"> 
           <img src={product.image} alt="" />
         </div>
         <div className="ind-details space">

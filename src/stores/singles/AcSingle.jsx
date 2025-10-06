@@ -37,6 +37,4 @@ const AcSingle = () => {
       </div>
     </>
   );
-};
-
-export default AcSingle;
+};export default AcSingle;

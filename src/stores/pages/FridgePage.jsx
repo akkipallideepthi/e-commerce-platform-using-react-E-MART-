@@ -15,7 +15,7 @@ const FridgePage = () => {
             }
     }
 
-
+    
     const filteredProduct = selectedProduct.length===0?
         fridgeData : fridgeData.filter((orange)=>selectedProduct.includes(orange.brand))
 
@@ -24,7 +24,7 @@ return (
 <Navbar />
 <div className="fullpage">
     
-<div className="pro-selected">
+<div className="pro-selected"> 
 
 {fridgeData.map((phone)=>{
     return(
